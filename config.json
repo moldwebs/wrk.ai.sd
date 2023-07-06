@@ -1,4 +1,5 @@
 {
     "samples_save": false,
+    "enable_pnginfo": false,
     "grid_save": false
 }
